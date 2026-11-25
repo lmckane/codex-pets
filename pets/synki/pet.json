@@ -1,0 +1,9 @@
+{
+  "id": "pet_6b0258f848ac8191acac85cc26352242",
+  "name": "Synki",
+  "description": "A curious little mint-eyed robot companion from SynapTick.",
+  "is_custom": true,
+  "spritesheet": "spritesheet.png",
+  "downloaded_on": "2026-11-25",
+  "sha256": "cb148d334e63357ad307dbb8241b5f82240141bf399395da703b62af13301939"
+}

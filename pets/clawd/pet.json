@@ -1,0 +1,9 @@
+{
+  "id": "pet_6b0649e9dc408191ae912758c46e1895",
+  "name": "Clawd",
+  "description": "The pixel Clawd coding companion from Mascot Studio, ready to think, work, and check in with you.",
+  "is_custom": true,
+  "spritesheet": "spritesheet.png",
+  "downloaded_on": "2026-11-25",
+  "sha256": "10aa0574e9f6188c6591bc82f07a94d8d71b942ae85d400f57e432d4ab0e82dd"
+}
